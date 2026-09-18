@@ -32,3 +32,24 @@ Java for API's - > Servelets
 Java for UI - > Applets (discontinued)
 
 JAVA security provided by JVM (sandbox model)
+
+##
+
+JVM, JRE, JDK
+
+Source Code -> ByteCode ->
+
+bigger to smaller
+
+1. JDK
+2. JRE
+3. JVM
+
+## Interpreter - convert code line by line
+
+## Comiler - convert code all at once
+
+Java uses Interpreter + JITC (Just in time compiler)
+
+uses Interpreter in usual scenarios
+it detects multi use parts and uses JIT

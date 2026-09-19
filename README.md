@@ -59,3 +59,19 @@ it detects multi use parts and uses JIT
 JSE - Java Standard Edition - core java
 JEE - Java Enterprice Edition - web apps
 JME - Java Micro Edition - light weight - depricated almost...
+
+## Variables
+
+the memory location of a assigned data.
+
+## Staticaly tyes - type to be declared before
+
+## Data Types
+
+1. Premitive
+   Integer - byte, short, int, long
+   Real No. - bloat, double
+   Character - Char
+   Boolean - boolean
+
+2. Non-Premitive

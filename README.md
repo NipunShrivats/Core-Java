@@ -39,11 +39,11 @@ JVM, JRE, JDK
 
 Source Code -> ByteCode ->
 
-bigger to smaller
+Bigger to Smaller
 
-1. JDK
-2. JRE
-3. JVM
+1. JDK - Java Development Kit
+2. JRE - Java Runtime Environment
+3. JVM - Java Virtual Machine
 
 ## Interpreter - convert code line by line
 
@@ -53,3 +53,9 @@ Java uses Interpreter + JITC (Just in time compiler)
 
 uses Interpreter in usual scenarios
 it detects multi use parts and uses JIT
+
+##
+
+JSE - Java Standard Edition - core java
+JEE - Java Enterprice Edition - web apps
+JME - Java Micro Edition - light weight - depricated almost...

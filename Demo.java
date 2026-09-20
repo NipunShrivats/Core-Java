@@ -29,17 +29,37 @@
 
 public class Demo{
     public static void main(String[] args){
-       byte b = 24;
-       int i;
-        i=b;
-       System.out.println("i:"+ i);
+      
+    // byte b = 24;
+    // int i;
+    // i=b;
+    // System.out.println("i:" + i);
        
-       
-       int t1 = 300;
-       byte t2;
-       t2 = (byte) t1;
-        System.out.println("t1:"+t1);
-        System.out.println("t2:"+t2);
-       
+
+    // Character to int
+    // char c = 'a';
+    // int i;
+    // i=c;
+    // System.out.println("i:"+ i);
+
+    // Explicit conversion
+    //    int t1 = 300;
+    //    byte t2;
+    //    t2 = (byte) t1;
+    //     System.out.println("t1:"+t1);
+    //     System.out.println("t2:"+t2);
+
+    // truncating
+    // float f = 15.678f;
+    // int i;
+    // i = (int) f;
+    // System.out.println("i: " + i);
+
+    // byte promotion
+    byte b = 50;
+    // b = b*2; // not possible // when * applied b was promoted to int so,
+    b = (byte) (b*2);
+    
+
 }}
 

@@ -75,3 +75,13 @@ the memory location of a assigned data.
    Boolean - boolean
 
 2. Non-Premitive
+
+## Type conversion
+
+1. Implicit - That java does on its own.
+   a. The destination Datatyope should be wider than the souce datatype
+
+2. Explicit - That we have to perform.
+   a. can be widening or narowing
+
+##

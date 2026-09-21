@@ -59,6 +59,8 @@ public class Demo{
     byte b = 50;
     // b = b*2; // not possible // when * applied b was promoted to int so,
     b = (byte) (b*2);
+
+
     
 
 }}

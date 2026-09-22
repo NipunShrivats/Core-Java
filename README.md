@@ -85,3 +85,10 @@ the memory location of a assigned data.
    a. can be widening or narowing
 
 ## Operators in Java
+
+## Operator precedence
+
+## Conditional statements
+
+1. Flow fo control
+   Selections:- if, if-else, switch

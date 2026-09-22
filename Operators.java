@@ -24,8 +24,11 @@ public class Operators {
             System.out.println("t1: "  + t1);
             System.out.println("t2: "  + t2);
 
-
-            // Relational Operators
-            
+            // Relational Operators // true //false
+            int a1 = 5;
+            int b1 = 10;
+            a1=b1;
+            System.out.println("a1==b1:"+ (a1==b1));
+ 
         }
     }

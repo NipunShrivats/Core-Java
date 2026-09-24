@@ -92,3 +92,5 @@ the memory location of a assigned data.
 
 1. Flow fo control
    Selections:- if, if-else, switch
+
+2. Iteration statements:- loops

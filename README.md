@@ -94,3 +94,14 @@ the memory location of a assigned data.
    Selections:- if, if-else, switch
 
 2. Iteration statements:- loops
+
+## Arrays
+
+example:-
+
+int[] arr1 = new int[3]; // 32 bits each
+
+1. new is used to alocate memory in heap
+2. int[3] -> size of array
+   --> 1D array and
+   2D arrays - array of arrays

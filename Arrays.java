@@ -1,3 +1,21 @@
+
+public class Arrays {
+
+    public static void main(String[] args) {
+        // 1.
+        // int[] arr1 = new int[3]; // 32 bits each
+        // arr1[0] = 90;
+        // System.out.print(arr1[0]);
+
+        // 2.
+        // int[] roll = new int[5];
+        // int x = 101;
+        // for (int i = 0; i < 5; i++) {
+        //     roll[i] = x;
+        //     x++;
+        //     System.err.println(roll[i]);
+        // }
+        // 2D array
         int[][] marks = new int[3][3];
 
         int value = 0;
@@ -13,3 +31,6 @@
             }
             System.out.println();
         }
+
+    }
+}

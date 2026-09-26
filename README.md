@@ -105,3 +105,21 @@ int[] arr1 = new int[3]; // 32 bits each
 2. int[3] -> size of array
    --> 1D array and
    2D arrays - array of arrays
+
+## Strings
+
+---
+
+Premitive Data types
+
+1. goes in stack
+2. stores data
+3. only 1 value - less momory
+4. fast
+
+Non premitive
+
+1. Heap
+2. stores an address
+3. unlimited
+4. slower
